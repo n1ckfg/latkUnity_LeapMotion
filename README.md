@@ -1,4 +1,4 @@
-latkUnity_Leap
+latkUnity_LeapMotion
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 <pre>
